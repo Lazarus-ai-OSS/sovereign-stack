@@ -1,0 +1,8 @@
+schema: v1
+component: stack
+product: sovereign
+type: infra
+owner:
+  jira_project: LP
+  team: team-applied-ai
+deployments: []
